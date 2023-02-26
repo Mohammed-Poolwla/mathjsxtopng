@@ -1,0 +1,16 @@
+{
+  "name": "equationToimg",
+  "version": "1.1.1",
+  "description": "Coonvert mathjax to png",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mathjax-node": "^2.1.1",
+    "svg2img": "^1.0.0-beta.2"
+  }
+}
